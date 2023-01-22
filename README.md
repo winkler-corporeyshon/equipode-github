@@ -16,3 +16,5 @@ se recomienda crear una organizacion que  sea propietaria del proyecto principal
 ** git remote add proyecto otiriginal git@github.com:winkler-corporeyshon/equipode-github.git
 * eliminar remotos 
 ** git remote remove atrabajaraqui
+ 1. REINTENTREMOS EL CAMBIO
+  
