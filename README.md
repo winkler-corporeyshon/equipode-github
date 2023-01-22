@@ -9,5 +9,10 @@ se recomienda crear una organizacion que  sea propietaria del proyecto principal
 4. click en nueva orgnizacion 
 5. Elegit plan y leer datos 
 
-### creacion de Fork 
-Para crear un fork debes iniciar sesion en GitHub y luego iniciar a la landing page del proyecto del que quieres sacar tu frok
+## como trabajar con dos o mas remotos 
+* lista de remotos
+*¨* git remote -v
+* agregar remotos 
+** git remote add proyecto otiriginal git@github.com:winkler-corporeyshon/equipode-github.git
+* eliminar remotos 
+** git remote remove atrabajaraqui
