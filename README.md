@@ -21,3 +21,7 @@ se recomienda crear una organizacion que  sea propietaria del proyecto principal
 
 para entender como llamar o categorizar atus verciones te recomendamos  un articulo en nuestro blog:https:
 //ed.team/blog/como-se-deciden-las-versiones-del-software
+
+## agregaremos otros cambios para vereficar si esta bien ok 
+
+1. esto si que se subira al repicitorio ok
