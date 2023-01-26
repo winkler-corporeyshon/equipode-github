@@ -16,3 +16,8 @@ se recomienda crear una organizacion que  sea propietaria del proyecto principal
 ** git remote add proyecto otiriginal git@github.com:winkler-corporeyshon/equipode-github.git
 * eliminar remotos 
 ** git remote remove atrabajaraqui
+## camvios pendientes 
+1. inicio de canvios pendientes
+
+para entender como llamar o categorizar atus verciones te recomendamos  un articulo en nuestro blog:https:
+//ed.team/blog/como-se-deciden-las-versiones-del-software
