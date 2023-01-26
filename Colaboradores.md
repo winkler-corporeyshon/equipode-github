@@ -3,4 +3,4 @@
 2. alfredo mejico 
 3. anonimo 
 4. ectraterestre numero 1
- 
+5. quito colaborador winkler alferdo
